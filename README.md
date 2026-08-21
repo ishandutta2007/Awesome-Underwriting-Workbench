@@ -61,7 +61,7 @@ The commercial underwriting workbench landscape is led by enterprise core insura
 
 Building an underwriting workbench using open-source components requires assembling best-of-breed tools across document extraction, workflow orchestration, rule engines, machine learning, feature stores, and actuarial libraries. The table below lists top open-source projects, sorted by star count (descending).
 
-| Project / Repository | Stars Badge | Primary Capability | Description |
+| Project / Repository | Github_Stars | Primary Capability | Description |
 | :--- | :--- | :--- | :--- |
 | **[Transformers](https://github.com/huggingface/transformers)** | [![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers) | 🤖 Document AI / NLP | State-of-the-art NLP library powering submission summarization, loss run understanding, policy Q&A, and underwriter copilot assistants. |
 | **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** | [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) | 📄 Document Intelligence | Ultra-lightweight OCR system for parsing scanned insurance ACORD forms, loss runs, schedules of values, and financial statements. |
