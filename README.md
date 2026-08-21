@@ -39,45 +39,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-- **[Send Technology](https://send.technology/)**  
-  Underwriting orchestration platform for commercial and specialty insurers, MGAs, and reinsurers. Supports submission management, risk workflows, data enrichment, rules, pricing, approvals, quote/rate lifecycle, and post-bind processes. Send was acquired by Duck Creek. 
-
-
-- **[Cytora](https://www.cytora.com/)**  
-  AI-powered underwriting platform focused on transforming insurance submissions into structured risk data, automating intake, triage, risk extraction, and underwriting workflows.
-
-
-- **[AKUR8](https://akur8.com/)**  
-  Insurance pricing and risk-modeling platform using transparent machine-learning techniques for actuarial pricing, rate modeling, and portfolio analysis.
-
-
-- **[INSTANDA](https://instanda.com/)**  
-  Cloud-native insurance platform supporting product configuration, underwriting, rating, policy administration, workflow, and distribution.
-
-
-- **[EIS](https://www.eisgroup.com/)**  
-  Cloud-native insurance core platform supporting product development, underwriting, policy administration, billing, claims, and digital insurance workflows.
-
-
-- **[Insurity](https://www.insurity.com/)**  
-  Insurance software platform offering underwriting, policy administration, billing, claims, data analytics, and insurance lifecycle capabilities across P&C and specialty insurance.
-
-
-- **[Guidewire](https://www.guidewire.com/)**  
-  Major P&C insurance software platform with PolicyCenter, BillingCenter, ClaimCenter, PricingCenter, and related underwriting, product, analytics, and insurance-core capabilities.
-
-
-- **[Duck Creek](https://www.duckcreek.com/)**  
-  Cloud-based P&C insurance platform covering policy, billing, claims, rating, product configuration, and underwriting workflows. Duck Creek now incorporates Send Technology's underwriting orchestration capabilities.
-
-
-- **[Sapiens](https://sapiens.com/)**  
-  Insurance software provider offering policy administration, underwriting, billing, claims, decision management, and insurance-core platforms across P&C, life, and retirement.
-
-
-- **[Majesco](https://www.majesco.com/)**  
-  Cloud insurance technology provider covering policy administration, billing, claims, underwriting, product management, digital experiences, and data-driven insurance operations.
+| Platform | Description | Pricing (Starting Tier) | Free Tier Limits / Trial |
+| :--- | :--- | :--- | :--- |
+| **[Send Technology](https://send.technology/)** | Underwriting orchestration platform for commercial and specialty insurers, MGAs, and reinsurers. Supports submission management, risk workflows, data enrichment, rules, pricing, approvals, quote/rate lifecycle, and post-bind processes (acquired by Duck Creek). | Starts at ~$35,000/year (SaaS enterprise licensing based on Gross Written Premium and user volume) | No free forever tier; 0-day self-serve trial (custom pilot and demonstration available upon sales qualification) |
+| **[Cytora](https://www.cytora.com/)** | AI-powered underwriting platform focused on transforming insurance submissions into structured risk data, automating intake, triage, risk extraction, and underwriting workflows. | Starts at ~$40,000/year (Google Cloud Marketplace private offer / annual subscription based on submission intake volume) | No free forever tier; 0-day self-serve trial (bespoke POC upon enterprise qualification; free access to Risk Flow Academy training) |
+| **[AKUR8](https://akur8.com/)** | Insurance pricing and risk-modeling platform using transparent machine-learning techniques for actuarial pricing, rate modeling, and portfolio analysis. | Starts at ~$50,000/year (AWS Marketplace private offer / tiered subscription based on actuarial seats & model complexity) | No free forever tier; 0-day self-serve trial (guided pilot evaluation program offered via sales/AWS Private Offer) |
+| **[INSTANDA](https://instanda.com/)** | Cloud-native insurance platform supporting product configuration, underwriting, rating, policy administration, workflow, and distribution. | Starts at ~$1,000/user/month (or ~£12,000/year base access fee + processing and build fees) | No free forever tier; 0-day self-serve trial (custom sandbox demonstration and POC environment on request) |
+| **[EIS](https://www.eisgroup.com/)** | Cloud-native insurance core platform supporting product development, underwriting, policy administration, billing, claims, and digital insurance workflows. | Starts at ~$50,000/year (CloudCore SaaS subscription structured around active policies in force & lines of business) | No free forever tier; 0-day self-serve trial (structured discovery demo and enterprise POC upon request) |
+| **[Insurity](https://www.insurity.com/)** | Insurance software platform offering underwriting, policy administration, billing, claims, data analytics, and insurance lifecycle capabilities across P&C and specialty insurance. | Starts at ~$30,000/year (or ~$2,500/month baseline for mid-market cloud underwriting & policy tier) | No free forever tier; 0-day self-serve trial (guided evaluation demo and technical scoping assessment on request) |
+| **[Guidewire](https://www.guidewire.com/)** | Major P&C insurance software platform with PolicyCenter, BillingCenter, ClaimCenter, PricingCenter, and related underwriting, product, analytics, and insurance-core capabilities. | Starts at ~$50,000/year (Base entry licensing tier for cloud modules, scaling to $150k+/year for enterprise suites) | No free forever tier; 0-day self-serve trial (vendor-led POC and sandbox demonstration upon enterprise qualification) |
+| **[Duck Creek](https://www.duckcreek.com/)** | Cloud-based P&C insurance platform covering policy, billing, claims, rating, product configuration, and underwriting workflows (incorporating Send Technology underwriting orchestration). | Starts at ~$40,000/year (Duck Creek OnDemand starting subscription based on Direct Written Premium & active modules) | No free forever tier; 0-day self-serve trial (custom enterprise demonstration and POC upon sales consultation) |
+| **[Sapiens](https://sapiens.com/)** | Insurance software provider offering policy administration, underwriting, billing, claims, decision management, and insurance-core platforms across P&C, life, and retirement. | Starts at ~$54,000/year (CoreSuite & Sapiens Decision starting base tier for underwriting & policy management) | No free forever tier; 0-day self-serve trial (interactive proof-of-concept and guided demo on request) |
+| **[Majesco](https://www.majesco.com/)** | Cloud insurance technology provider covering policy administration, billing, claims, underwriting, product management, digital experiences, and data-driven insurance operations. | Starts at ~$50,000/year (Majesco Cloud / Intelligent Underwriting baseline subscription) | No free forever tier; 0-day self-serve trial (guided walkthrough and custom evaluation environment upon request) |
 
 
 ### Additional Major Underwriting Platforms
